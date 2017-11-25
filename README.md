@@ -11,7 +11,7 @@
 
 ### Note:
 
-* *Do not* try to submit your Postgres database itself. You should make sure the database you end up using for this project is called **YOUR_UNIQNAME_507project6** (so mine would be `jczetta_507project6` or Anand's would be `anandpd_507project6`) and that you have added that name to this README file in your fork, as directed below. We will be running your code to recreate the database on our own computer(s).
+* *Do not* try to submit your Postgres database itself. You should make sure the database you end up using for this project is called **beijin_507project6** (so mine would be `jczetta_507project6` or Anand's would be `anandpd_507project6`) and that you have added that name to this README file in your fork, as directed below. We will be running your code to recreate the database on our own computer(s).
 
 
 ## Instructions

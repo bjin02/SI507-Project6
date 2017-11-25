@@ -115,8 +115,8 @@ def get_and_insert_data():
 
     # Insert States data
     conn, cur = get_connection_and_cursor()
-    # states_list = ['arkansas', 'michigan', 'california']
-    # insertStates(cur, states_list)
+    states_list = ['arkansas', 'michigan', 'california']
+    insertStates(cur, states_list)
 
     # Insert Sites data
     cur.execute("SELECT * FROM States WHERE Name = 'michigan'")
