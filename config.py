@@ -1,0 +1,15 @@
+db_name = 'beijin_507project6'
+db_user = 'beijin'
+db_password = 'King22'
+db_sites = 'Sites'
+db_states = 'States'
+
+arkansas_csv = 'arkansas.csv'
+michigan_csv = 'michigan.csv'
+california_csv = 'california.csv'
+
+NAME = 'NAME'
+LOCATION = 'LOCATION'
+TYPE = 'TYPE'
+ADDRESS = 'ADDRESS'
+DESCRIPTION = 'DESCRIPTION'

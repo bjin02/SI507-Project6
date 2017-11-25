@@ -11,7 +11,7 @@
 
 ### Note:
 
-* *Do not* try to submit your Postgres database itself. You should make sure the database you end up using for this project is called **YOUR_UNIQNAME_507project5** (so mine would be `jczetta_507project5` or Anand's would be `anandpd_507project5`) and that you have added that name to this README file in your fork, as directed below. We will be running your code to recreate the database on our own computer(s).
+* *Do not* try to submit your Postgres database itself. You should make sure the database you end up using for this project is called **YOUR_UNIQNAME_507project6** (so mine would be `jczetta_507project6` or Anand's would be `anandpd_507project6`) and that you have added that name to this README file in your fork, as directed below. We will be running your code to recreate the database on our own computer(s).
 
 
 ## Instructions
@@ -28,7 +28,7 @@ Each CSV file contains data about National Sites (parks, historical sites, lakes
 
 In Project 3, you gathered this data by scraping the NPS website. Now, armed with these CSV files, you will be creating tables and adding this data to database tables.
 
-First, you should create a database. You can try with an "interim" database if you like, but ultimately, the database for this project should be called **YOUR_UNIQNAME_507project5** (so mine would be `jczetta_507project5` or Anand's would be `anandpd_507project5`).
+First, you should create a database. You can try with an "interim" database if you like, but ultimately, the database for this project should be called **beijin_507project6** (so mine would be `jczetta_507project6` or Anand's would be `anandpd_507project6`).
 
 *You should edit the README file -- this file -- in your fork, at the very top, and write your database name.* That will make it easy for us to copy and paste it to create the databases we need to create. This is worth points, because it's important for our grading process!
 
